@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="510" viewBox="0 0 510 510">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        fill: #d7dcff;
+      }
+
+      .c {
+        fill: #e0e0e0;
+      }
+
+      .d {
+        fill: #4d5cb1;
+      }
+
+      .e {
+        fill: #fff;
+      }
+
+      .f {
+        fill: #a3a7ce;
+      }
+    </style>
+  </defs>
+  <title>icon_referrer</title>
+  <g>
+    <rect class="a" width="510" height="510"/>
+    <g>
+      <rect class="b" x="176.95" y="163.4" width="242.71" height="184.25"/>
+      <rect class="c" x="176.95" y="163.4" width="242.71" height="23.71"/>
+      <rect class="d" x="176.95" y="163.4" width="242.71" height="23.71"/>
+      <g>
+        <circle class="e" cx="191.58" cy="175.25" r="6.57"/>
+        <circle class="e" cx="211.29" cy="175.25" r="6.57"/>
+        <circle class="e" cx="231.01" cy="175.25" r="6.57"/>
+      </g>
+      <rect class="f" x="197.19" y="203.2" width="202.24" height="89.91"/>
+      <rect class="f" x="197.19" y="308.83" width="202.24" height="18.67"/>
+    </g>
+    <path class="d" d="M233.47,246.43l-42.86-33.82a10.92,10.92,0,0,0-17.67,8.57v22.91H90.33v21.82h82.61v22.91a10.92,10.92,0,0,0,17.67,8.57l42.86-33.82a10.92,10.92,0,0,0,0-17.14Z"/>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="510" viewBox="0 0 510 510">
+  <defs>
+    <style>
+      .a {
+        fill: #d7dcff;
+      }
+
+      .b {
+        fill: #e0e0e0;
+      }
+
+      .c {
+        fill: #4d5cb1;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #a3a7ce;
+      }
+
+      .f {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>icon_embed</title>
+  <g>
+    <rect class="a" x="91.33" y="131" width="329.33" height="250"/>
+    <rect class="b" x="91.33" y="131" width="329.33" height="32.17"/>
+    <rect class="c" x="91.33" y="131" width="329.33" height="32.17"/>
+    <g>
+      <circle class="d" cx="111.17" cy="147.08" r="8.92"/>
+      <circle class="d" cx="137.92" cy="147.08" r="8.92"/>
+      <circle class="d" cx="164.67" cy="147.08" r="8.92"/>
+    </g>
+    <rect class="e" x="118.79" y="185" width="274.42" height="122"/>
+    <rect class="e" x="118.79" y="328.33" width="274.42" height="25.33"/>
+    <polygon class="d" points="205.03 282.32 168.3 245.6 205.03 208.87 216.34 220.19 190.93 245.6 216.34 271.01 205.03 282.32"/>
+    <polygon class="d" points="301.95 271.01 327.36 245.6 301.95 220.19 313.26 208.87 349.98 245.6 313.26 282.32 301.95 271.01"/>
+    <g>
+      <path class="f" d="M0,0V510H510V0Z"/>
+      <polygon class="d" points="281.61 222.83 269.85 211.07 269.84 211.07 236.68 270.8 248.44 282.56 248.44 282.56 281.61 222.83"/>
+    </g>
+  </g>
+</svg>

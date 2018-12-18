@@ -1,0 +1,323 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  width: 100%;
+  height: 900px;
+  color: white;
+  background-image: url(./img/main_visual_7-0x0.jpg);
+}
+
+.header-container {
+  width: 100%;
+  height: 122px;
+}
+
+.header-left {
+  margin-top: 50px;
+  margin-left: 7%;
+  float: left;
+}
+
+.header-left img {
+  width: 266px;
+  height: 72px;
+}
+
+.header-right {
+  margin-top: 75px;
+  margin-right: 7%;
+  float: right;
+}
+
+.header-right li {
+  float: left;
+  margin-left: 40px;
+}
+
+.header-right a {
+  color: white;
+  transition: 0.2s;
+}
+
+.header-right a:hover {
+  border-bottom: solid 2px;
+}
+
+.intro {
+  width: 100%;
+  height: 696px;
+  padding: 110px 0;
+  background-color: #f6f6f6;
+}
+
+.intro-text {
+  width: 370px;
+  margin: 0 auto;
+}
+
+.intro-title h1 {
+  font-size: 44px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.intro-title2 {
+  text-align: center;
+}
+
+.intro-title2 img {
+  width: 211px;
+  height: 54px;
+}
+
+.inner-text p {
+  font-size: 20px;
+}
+
+.products {
+  width: 100%;
+  height: 1037px;
+  padding: 110px 0;
+}
+
+.product-wrapper {
+  width: 846px;
+  height: 1037px;
+  margin: 0 auto;
+}
+
+.contents-header {
+  height: 47px;
+}
+
+.contents-header-left {
+  height: 47px;
+  float: left;
+  background: url(./img/sectionTitle-underLine@2x.png) no-repeat;
+  background-size: 68px 8px;
+  background-position: 0 bottom;
+}
+
+.contents-header-left p {
+  font-size: 30px;
+  font-weight: normal;
+  padding-bottom: 17px;
+  margin: 0;
+}
+
+.contents-header-right {
+  width: 160px;
+  height: 44px;
+  float: right;
+  border: solid 1px;
+}
+
+.contents-header-right p {
+  text-align: center;
+  line-height: 44px;
+  margin: 0;
+}
+
+.product {
+  display: flex;
+  justify-content: space-between;
+  width: 816px;
+  height: 495px;
+  margin: 0 auto;
+}
+
+.product-child {
+  padding-top: 60px;
+}
+
+.product-child img {
+  width: 100%;
+  height: auto;
+}
+
+.product-child p {
+  padding: 0 20px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.news {
+  width: 100%;
+  height: 1973px;
+  padding: 110px 0;
+  background-color: #f6f6f6;
+}
+
+.news-wrapper {
+  width: 786px;
+  margin: 0 auto;
+}
+
+.news-about {
+  width: 780px;
+  height: 254px;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+}
+
+.news-image {
+  width: 322.5px;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.news-image img {
+  width: 100%;
+  height: auto;
+}
+
+.news-text {
+  width: 500px;
+  margin-left: 20px;
+  flex-grow: 2;
+}
+
+.news-text h2 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.news-days {
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.news-content {
+  font-size: 13px;
+  margin-top: 15px;
+}
+
+.share {
+  width: 100%;
+  height: 116px;
+}
+
+.share-btn {
+  display: flex;
+  justify-content: center;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.btn {
+  height: 44px;
+}
+
+.btn p {
+  line-height: 44px;
+  width: 160px;
+  text-align: center;
+  margin: 35px 15px;
+  font-size: 14px;
+}
+
+.inner-link {
+  width: 100%;
+  height: 27px;
+  padding: 30px 0;
+  background-color: #939899;
+  display: flex;
+  justify-content: center;
+}
+
+.link-text  {
+  margin: 0 30px;
+}
+
+.link-text a {
+  font-size: 14px;
+  color: white;
+  margin: 0;
+}
+
+footer {
+  width: 100%;
+  height: 89px;
+  padding: 35px 0;
+  background-color: #656c6e;
+}
+
+.footer-text {
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.footer-text img {
+  height: 89px;
+  width: auto;
+}
+
+.footer-text small {
+  font-size: 80%;
+  line-height: 89px;
+  color: white;
+}
+
+.opa:hover {
+  opacity: 0.5;
+}
+
+.btn-more {
+  background: url(./img/button-arrow@2x.png) no-repeat;
+  background-size: 8px 12px;
+  background-position: 140px 50%;
+  transition: 0.2s;
+}
+
+.btn-more:hover {
+  background-color: #000;
+  background-image: url(./img/button-arrow-hover@2x.png);
+  color: white;
+}
+
+.fa-btn {
+  border: solid 1px #4871a9;
+  color: #4871a9;
+}
+
+.fa-btn:hover {
+  background-color: #4871a9;
+  color: white;
+}
+
+.tw-btn {
+  border: solid 1px #70bdd3;
+  color: #70bdd3;
+}
+
+.tw-btn:hover {
+  background-color: #70bdd3;
+  color: white;
+}
+
+.hb-btn {
+  border: solid 1px #2f9bcd;
+  color: #2f9bcd;
+}
+
+.hb-btn:hover {
+  background-color: #2f9bcd;
+  color: white;
+}
+
+.btn-text {
+  transition: 0.2s;
+}

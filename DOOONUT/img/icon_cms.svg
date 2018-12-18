@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="510" viewBox="0 0 510 510">
+  <defs>
+    <style>
+      .a {
+        fill: #9297b7;
+      }
+
+      .b {
+        fill: #a3a7ce;
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #4d5cb1;
+      }
+
+      .e {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>icon_cms</title>
+  <g>
+    <g>
+      <polygon class="a" points="314.89 399.82 201.11 399.82 220.94 314.49 295.06 314.49 314.89 399.82"/>
+      <path class="b" d="M384,337.33H132a16.23,16.23,0,0,1-16.23-16.23V126A16.23,16.23,0,0,1,132,109.78H384A16.23,16.23,0,0,1,400.22,126V321.1A16.23,16.23,0,0,1,384,337.33Z"/>
+      <rect class="c" x="128.71" y="124.43" width="258.59" height="162.05"/>
+      <circle class="c" cx="258" cy="308.89" r="10.34"/>
+      <path class="b" d="M314,402H202a10.34,10.34,0,0,1-10.34-10.34h0A10.34,10.34,0,0,1,202,381.29H314a10.34,10.34,0,0,1,10.34,10.35h0A10.34,10.34,0,0,1,314,402Z"/>
+      <rect class="d" x="146.02" y="138.22" width="223.99" height="56.92"/>
+      <rect class="d" x="146.02" y="202.25" width="73.43" height="70.43"/>
+      <rect class="d" x="226.14" y="202.25" width="143.84" height="70.43"/>
+    </g>
+    <rect class="e" width="510" height="510"/>
+  </g>
+</svg>
